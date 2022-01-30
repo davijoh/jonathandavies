@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Jonathan Davies</title>
-    <link>https://jonathandavies.netlify.app/</link>
-    <description>Recent content on Jonathan Davies</description>
+    <title>Posts on Jonathan Davies</title>
+    <link>https://jonathandavies.netlify.app/posts/</link>
+    <description>Recent content in Posts on Jonathan Davies</description>
     <image>
       <url>https://jonathandavies.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://jonathandavies.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 30 Jan 2022 01:08:22 +0100</lastBuildDate><atom:link href="https://jonathandavies.netlify.app/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://jonathandavies.netlify.app/page/about/</link>
-      <pubDate>Sun, 30 Jan 2022 01:08:22 +0100</pubDate>
-      
-      <guid>https://jonathandavies.netlify.app/page/about/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sun, 30 Jan 2022 01:07:40 +0100</lastBuildDate><atom:link href="https://jonathandavies.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>https://jonathandavies.netlify.app/posts/my-first-post/</link>
@@ -27,7 +18,6 @@
       <guid>https://jonathandavies.netlify.app/posts/my-first-post/</guid>
       <description></description>
     </item>
-    
     
   </channel>
 </rss>

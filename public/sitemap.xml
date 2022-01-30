@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://jonathandavies.netlify.app/page/about/</loc>
+    <lastmod>2022-01-30T01:08:22+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://jonathandavies.netlify.app/</loc>
+    <lastmod>2022-01-30T01:08:22+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://jonathandavies.netlify.app/page/</loc>
+    <lastmod>2022-01-30T01:08:22+01:00</lastmod>
+  </url><url>
+    <loc>https://jonathandavies.netlify.app/posts/my-first-post/</loc>
+    <lastmod>2022-01-30T01:07:40+01:00</lastmod>
+  </url><url>
+    <loc>https://jonathandavies.netlify.app/posts/</loc>
+    <lastmod>2022-01-30T01:07:40+01:00</lastmod>
+  </url><url>
+    <loc>https://jonathandavies.netlify.app/archives/</loc>
+  </url><url>
+    <loc>https://jonathandavies.netlify.app/categories/</loc>
+  </url><url>
+    <loc>https://jonathandavies.netlify.app/tags/</loc>
   </url>
 </urlset>
