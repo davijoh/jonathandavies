@@ -6,7 +6,7 @@ title = "My journey towards a free personal website"
 +++
 Since I started working as a digital marketing consultant, I´ve always wanted to have my own website. After all, I build websites for a living but I don´t have my own?!
 
-The problem is I don't feel like spending monthly money on it. I just want to store my notes.
+The problem is I don't feel like spending money on it monthly. I just want to store my notes.
 
 "Why don't you go for Notion or Wordpress.org?"
 
@@ -45,3 +45,11 @@ Well, most browsers don't support NFT domains yet...
 I know, kind of a turn off. I'm hoping this changes fast.
 
 **But my point is, my static website + hosting + CMS + domain name cost me a one-time fee of $20.**
+
+Here is the breakdown:
+
+* Static website generator: Hugo (free)
+* Hosting: Netlify (free for personal website)
+* CMS: Forestry (free)
+* Domain name: Unstoppable Domain ($20)
+* Lighthouse scores: 100 - 100 - 100 
