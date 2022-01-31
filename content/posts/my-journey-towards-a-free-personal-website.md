@@ -14,7 +14,7 @@ Two things, I want my own domain and I want it to be SEO friendly (I can't help 
 
 And to be honest, where's the challenge in that?!
 
-So, back to my journey.
+## My journey
 
 A typical website brings several costs:
 
@@ -40,7 +40,7 @@ You actually own your NFT domain and you don't rent it, contrary to regular doma
 
 The catch?
 
-Well, most browsers don't support NFT domains yet... 
+Well, most browsers don't support NFT domains yet... (Brave, that I use, does, but most people don't use it).
 
 I know, kind of a turn off. I'm hoping this changes fast.
 
@@ -53,3 +53,41 @@ Here is the breakdown:
 * CMS: Forestry (free)
 * Domain name: Unstoppable Domain ($20)
 * Lighthouse scores: 100 - 100 - 100 
+
+## Why Hugo?
+
+Pickling a static site generator was actually more difficult than I thought.
+
+I don't want to go too much into the details here, as I am no expert, but my first pick wasn't Hugo.
+
+After reading several articles, I decided to go for 11ty. It's one of the newest players and it has a smaller community, but several articles recommended it as it's growing in popularity and supposedly easier to use.
+
+The thing is, I know nothing about static websites and my coding level is barely enough to write some custom CSS and HTML on Wordpress websites... 
+
+This means I can't code a static website from scratch and I need a theme to play with. That was the first limitation of 11ty... I couldn't find a theme that ticked my boxes...
+
+The second limitation came up when creating the website. A smaller community means fewer tutos available and fewer problems resolved online.
+
+After hours of trials and errors, I couldn't get a working website. Git errors, Netlify fails,... 
+
+(I know I probably jumped many steps by trying to create a static website without knowing code, but I believe in learning by trying)
+
+I am not saying 11ty is bad. In fact, it's one of the best generators out there. It's just not for complete beginners.
+
+Soooo...
+
+After some more research, I decided to go for Hugo. Its blazing fast reputation comforted my SEO ego and as it's been here for a while, it has a strong community and plenty of themes to pick from.
+
+Other contenders were Jekyll, Gatsby and Next.js. They all have a strong community.
+
+Why Hugo? I repeat: it's fast. Yes, it adds Golang to the coding languages mix, compared to 11ty, but whatever. 
+
+## Hosting
+
+There are a few options for free hosting, including Netlify, Github Pages and Vercel. 
+
+I went for Netlify.
+
+Github Pages seemed like a less popular option nowadays and Vercel seemed more complicated.
+
+The connexion between my Github repository and Netlify was seamless!
