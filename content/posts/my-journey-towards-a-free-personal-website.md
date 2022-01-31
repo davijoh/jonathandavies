@@ -82,7 +82,7 @@ Other contenders were Jekyll, Gatsby and Next.js. They all have a strong communi
 
 Why Hugo? I repeat: it's fast. Yes, it adds Golang to the coding languages mix, compared to 11ty, but whatever. 
 
-## Hosting
+## Hosting and CMS
 
 There are a few options for free hosting, including Netlify, Github Pages and Vercel. 
 
@@ -91,3 +91,5 @@ I went for Netlify.
 Github Pages seemed like a less popular option nowadays and Vercel seemed more complicated.
 
 The connexion between my Github repository and Netlify was seamless!
+
+As for the CMS, there were a few free options as well, starting with Netlify's own product.
