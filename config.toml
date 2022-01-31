@@ -43,7 +43,7 @@ tocopen = false
   safari_pinned_tab = "<link / abs url>"
 
   [params.label]
-  text = "Home"
+  text = "Jonathan Davies"
   icon = "/apple-touch-icon.png"
   iconHeight = 35
 
@@ -66,7 +66,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Hi there 👋"
-  Content = "Welcome to my Digital Garden. A little side project where I keep store my notes"
+  Content = "Welcome to my Digital Garden. A little side project where I store my notes"
 
   [[params.socialIcons]]
   name = "twitter"
