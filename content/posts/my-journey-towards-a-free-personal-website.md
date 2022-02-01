@@ -14,7 +14,7 @@ Two things, I want my own domain and I want it to be SEO friendly (I can't help 
 
 And to be honest, where's the challenge in that?!
 
-## My journey
+## My Quest
 
 A typical website brings several costs:
 
@@ -44,7 +44,7 @@ Here is the breakdown:
 
 ![Lighthouse results](/uploads/lighthouse-result.jpg "Lighthouse results")
 
-## Static website generator
+## Static Website Generator
 
 Pickling a static site generator was actually more difficult than I thought.
 
