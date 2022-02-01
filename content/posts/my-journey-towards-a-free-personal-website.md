@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 title = "👨‍💻 My Quest for a Free Personal Website"
 
 +++
