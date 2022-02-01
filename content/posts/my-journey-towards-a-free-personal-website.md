@@ -40,7 +40,9 @@ Here is the breakdown:
 * Hosting: Netlify (free for personal website)
 * CMS: Forestry (free)
 * Domain name: Unstoppable Domain ($20)
-* Lighthouse scores: 100 - 100 - 100
+* Lighthouse scores: 100 - 100 - 100 - 100
+
+![Lighthouse results](/uploads/lighthouse-result.jpg "Lighthouse results")
 
 ## Static website generator
 
@@ -95,16 +97,26 @@ Other top choices were Contentful and Sanity, but I preferred Forestry for the h
 
 ## Domain Name
 
-Renting a domain name really isn't too expensive, but having to rent it always annoyed me. 
+Renting a domain name really isn't too expensive, but having to rent it has always annoyed me. 
 
 Why can't we just own it?!
 
-I purchased jonathandavies.nft on Unstoppable Domains for $20. This is basically an NFT domain provider. Meaning you pay only once to acquire the domain name and that's it, no yearly renewal to pay.How come?
+Well, my friends, it seems like that question is no longer valid as I found out we actually CAN own our domain (as long as you're ready to give up on classic domain extensions like .com)
 
-You actually own your NFT domain and you don't rent it, contrary to regular domain names.
+Being quite interested in blockchain technology, web 3.0 etc, I found Unstoppable Domains (or rather, an Unstoppable Domain Instagram ad found me...) 
 
-The catch?
+This is basically an NFT domain provider. Meaning you pay only once to acquire (mint) the domain name and that's it, no yearly renewal fees to pay. You own an NFT domain, the same way as you'd own 
 
-Well, most browsers don't support NFT domains yet... (Brave, that I use, does, but most people don't use it).
+How much did I pay?
+
+I purchased jonathandavies.nft on Unstoppable Domains for $20.
+
+I repeat: one time payment! 
+
+And no, no minting and extra gas fees on my side. The mint is on Polygon and the tiny gas fee is covered by Unstoppable Domain.
+
+But wait, there is a catch...
+
+Well, most browsers don't support NFT domains natively yet... (Brave, that I use, does, but most people don't use it).
 
 I know, kind of a turn off. I'm hoping this changes fast.
