@@ -115,7 +115,7 @@ I repeat: one time payment!
 
 And no, no minting and extra gas fees on my side. The mint is on Polygon and the tiny gas fee is covered by Unstoppable Domain.
 
-But wait, there is a catch...
+**But wait, there is a catch...**
 
 Well, most browsers don't support NFT domains natively yet... (Brave, that I use, does, but most people don't use it).
 
