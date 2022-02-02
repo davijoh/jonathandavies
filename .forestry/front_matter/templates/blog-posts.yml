@@ -8,5 +8,9 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: toc
+  type: boolean
+  label: TOC
+  hidden: false
 pages:
 - content/posts/free-personal-website.md
