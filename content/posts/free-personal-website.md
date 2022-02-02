@@ -1,6 +1,7 @@
 +++
 date = 2022-02-02T17:00:00Z
 title = "👨‍💻 My Quest for a Free Personal Website"
+ShowToc = "true"
 
 +++
 Since I started working as a digital marketing consultant, I´ve always wanted to have my own website. After all, I build websites for a living but I don´t have my own?!
