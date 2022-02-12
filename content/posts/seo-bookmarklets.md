@@ -1,6 +1,6 @@
 +++
 date = 2022-02-11T23:00:00Z
-title = "Useful SEO Bookmarklets"
+title = "🔖 Useful SEO Bookmarklets"
 
 +++
 My list of Chrome extensions is getting very long, too long for my taste. While I deleted some that I barely use, I would still like to get rid of more.
