@@ -66,7 +66,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Hi there 👋"
-  Content = "Welcome to my Digital Garden where I store notes related to SEO, Digital Marketing and Web3. Building this website is also a project (you can read more about that <a href="https://jtndvs.com/posts/free-personal-website/">here</a>), so if something is broken or looks weird, it probably means I'm still learning."
+  Content = "Welcome to my Digital Garden where I store notes related to SEO, Digital Marketing and Web3. Building this website is also a project (you can read more about that <a href="https://jtndvs.com/posts/free-personal-website/">here</a>), so if something is broken or looks weird, it probably means I'm still learning..."
 
   [[params.socialIcons]]
   name = "twitter"
