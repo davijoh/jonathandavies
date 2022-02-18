@@ -17,7 +17,7 @@ env = "production"
 title = "ExampleSite"
 description = "ExampleSite description"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
-author = "Me"
+author = "Jonathan"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
@@ -93,11 +93,6 @@ SiteVerificationTag = "XYZabc"
   hidden = true
   hiddenInList = true
   hiddenInSingle = true
-
-  [params.editPost]
-  URL = "https://github.com/<path_to_repo>/content"
-  Text = "Suggest Changes"
-  appendFilePath = true
 
   [params.fuseOpts]
   isCaseSensitive = false
