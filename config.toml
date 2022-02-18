@@ -65,7 +65,7 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Hi there 👋"
+  Title = "Hi there 🤙"
   Content = "Welcome to my Digital Garden where I store notes related to SEO, Digital Marketing and Web3. Building this website is also a project, so if something is broken or looks weird, it probably means I'm still learning..."
 
   [[params.socialIcons]]
