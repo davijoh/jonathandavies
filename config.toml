@@ -69,16 +69,12 @@ tocopen = false
   Content = "Welcome to my Digital Garden where I store notes related to SEO, Digital Marketing and Web3. Building this website is also a project, so if something is broken or looks weird, it probably means I'm still learning..."
 
   [[params.socialIcons]]
+  name = "Linkedin"
+  url = "https://www.linkedin.com/in/jtndvs/"
+
+  [[params.socialIcons]]
   name = "twitter"
-  url = "https://twitter.com/"
-
-  [[params.socialIcons]]
-  name = "stackoverflow"
-  url = "https://stackoverflow.com"
-
-  [[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/"
+  url = "https://twitter.com/jtndvs"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
