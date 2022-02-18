@@ -1,7 +1,8 @@
 +++
-date = 2022-02-02T17:00:00Z
-title = "👨‍💻 My Quest for a Free Personal Website"
 ShowToc = "true"
+date = 2022-02-02T17:00:00Z
+tags = ["hugo", "static website"]
+title = "👨‍💻 My Quest for a Free Personal Website"
 
 +++
 Since I started working as a digital marketing consultant, I´ve always wanted to have my own website. After all, I build websites for a living but I don´t have my own?!
@@ -32,14 +33,14 @@ Except for the domain name. There is nothing we can do there.
 
 Actually, this isn't true. More on that later.
 
-**But my point is, my static website + hosting + CMS + domain name cost me a one-time fee of $20.**
+**But my point is, my static website + hosting + CMS + domain name cost me around $9 per year.**
 
 Here is the breakdown:
 
 * Static website generator: Hugo (free)
 * Hosting: Netlify (free for personal website)
 * CMS: Forestry (free)
-* Domain name: Unstoppable Domain ($20)
+* Domain name: Porkbun ($9/year)
 * Lighthouse scores: 100 - 100 - 100 - 100
 
 ![Lighthouse results](/uploads/lighthouse-result.jpg "Lighthouse results")
@@ -85,11 +86,11 @@ Github Pages seemed like a less popular option nowadays and Vercel seemed more c
 
 As for the CMS, there were a few free options as well, starting with Netlify's own product.
 
-Using Netlify for hosting, I naturally tried its CMS, but I didn't like it. For some reason, I had basic formatting issues that made simple things like bullet lists unusable. 
+Using Netlify for hosting, I naturally tried its CMS, but I didn't like it. For some reason, I had basic formatting issues that made simple things like bullet lists unusable.
 
-I didn't look more into that issue and finally decided to go for **Forestry**. 
+I didn't look more into that issue and finally decided to go for **Forestry**.
 
-Other top choices were Contentful and Sanity, but I preferred Forestry for the highly technical reason that its name just sounds better to me. 
+Other top choices were Contentful and Sanity, but I preferred Forestry for the highly technical reason that its name just sounds better to me.
 
 * No issue to declare so far. But this is my first article using it.
 * Connexion with my Github repository was easy and it automatically identified my existing pages and posts
@@ -97,21 +98,21 @@ Other top choices were Contentful and Sanity, but I preferred Forestry for the h
 
 ## Domain Name
 
-Renting a domain name really isn't too expensive, but having to rent it has always annoyed me. 
+Renting a domain name really isn't too expensive, but having to rent it has always annoyed me.
 
 Why can't we just own it?!
 
-Well, my friends, it seems like that question is no longer valid as I found out we actually CAN own our domain (as long as you're ready to give up on classic domain extensions like .com)
+Well, it seems like my wish might come true in the near future as I found out we actually CAN own our domain (as long as you're ready to give up on classic domain extensions like .com)
 
-Being quite interested in blockchain technology, web 3.0 etc, I found Unstoppable Domains (or rather, an Unstoppable Domain Instagram ad found me...) 
+Being quite interested in blockchain technology, web 3.0 etc, I heard about Unstoppable Domains (or rather, an Unstoppable Domain Instagram ad found me...)
 
-This is basically an NFT domain provider. Meaning you pay only once to acquire (mint) the domain name and that's it, no yearly renewal fees to pay. You own an NFT domain, the same way as you'd own 
+This is basically an NFT domain provider. Meaning you pay only once to acquire (mint) the domain name and that's it, no yearly renewal fees to pay. You own an NFT domain, the same way as you'd own
 
 How much did I pay?
 
 I purchased jonathandavies.nft on Unstoppable Domains for $20.
 
-I repeat: one time payment! 
+I repeat: one time payment!
 
 And no, no minting and extra gas fees on my side. The mint is on Polygon and the tiny gas fee is covered by Unstoppable Domain.
 
@@ -119,4 +120,18 @@ And no, no minting and extra gas fees on my side. The mint is on Polygon and the
 
 Well, most browsers don't support NFT domains natively yet... (Brave, that I use, does, but most people don't use it).
 
-I know, kind of a turn off. I'm hoping this changes fast.
+I know, kind of a turnoff. I'm hoping this changes fast.
+
+In the meantime, I purchased jtndvs.com on Porkbun for about $4 with a renewal fee of $9 per year.
+
+Why Porkbun and not NameCheap or GoDaddy?
+
+I just like Porkbun and their humour. Plus, they have a pretty good reputation and I like to support underdogs. 
+
+**Update:** Since then I also acquired jtndvs.hmn for free. 
+
+.hmn domains (hmn stands for human) are NFT domains, like the ones from Unstoppable Domains, except that [they are given for free by Cortex and Butterfly Protocol](https://www.hmn.domains/login).
+
+Note that you can´t choose your domain name as they are based on your Twitter name.
+
+Once again, this domain is pretty much useless for a website at the moment as browsers don´t support NFT domains. But it's free and if the project takes off, claiming your domain early can only be a win.
