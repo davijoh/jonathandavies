@@ -76,6 +76,10 @@ tocopen = false
   name = "twitter"
   url = "https://twitter.com/jtndvs"
 
+  [[params.socialIcons]]
+  name = "email"
+  url = "mailto:jtndvs@gmail.com"
+
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
 
