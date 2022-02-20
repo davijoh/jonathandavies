@@ -13,19 +13,9 @@ fields:
   default: []
   label: Tags
 - name: showToc
-  type: select
-  default: 'true'
-  config:
-    required: true
-    options:
-    - 'true'
-    - 'false'
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
+  type: boolean
   label: TOC
+  default: true
 pages:
 - content/posts/free-personal-website.md
 - content/posts/seo-bookmarklets.md
