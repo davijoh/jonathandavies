@@ -12,6 +12,12 @@ fields:
   type: tag_list
   default: []
   label: Tags
+- name: showToc__true
+  type: boolean
+  label: TOC
+  default: true
+  showOnly:
+    value: false
 pages:
 - content/posts/free-personal-website.md
 - content/posts/seo-bookmarklets.md
