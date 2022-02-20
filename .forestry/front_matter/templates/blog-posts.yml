@@ -13,11 +13,19 @@ fields:
   default: []
   label: Tags
 - name: showToc
-  type: boolean
+  type: select
+  default: 'true'
+  config:
+    required: true
+    options:
+    - 'true'
+    - 'false'
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
   label: TOC
-  default: true
-  showOnly:
-    value: false
 pages:
 - content/posts/free-personal-website.md
 - content/posts/seo-bookmarklets.md
