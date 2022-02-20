@@ -12,7 +12,7 @@ fields:
   type: tag_list
   default: []
   label: Tags
-- name: showToc__true
+- name: showToc
   type: boolean
   label: TOC
   default: true
