@@ -1,6 +1,6 @@
 +++
 date = 2022-02-11T23:00:00Z
-showToc = true
+showToc = "true"
 showToc__true = true
 tags = ["bookmarklets", "SEO"]
 title = "🔖 Useful SEO Bookmarklets"
