@@ -33,7 +33,7 @@ comments = false
 hidemeta = false
 hideSummary = false
 showtoc = false
-tocopen = false
+tocopen = true
 
   [params.assets]
   favicon = "<link / abs url>"
