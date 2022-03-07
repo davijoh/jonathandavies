@@ -1,9 +1,8 @@
 +++
 date = ""
-draft = true
 showToc = true
 tags = ["Digital Marketing", " Tools"]
-title = " 🛠️ 10 Free Tools Every Digital Marketeer Needs"
+title = " 🛠️ 10 Free Tools I Use Daily (Almost)"
 
 +++
 Over the years I have been using a lot of online tools... and when switching to Brave browser, I noticed that my bookmarks needed a bit of cleaning up.
