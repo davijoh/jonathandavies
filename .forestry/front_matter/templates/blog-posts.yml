@@ -18,6 +18,7 @@ fields:
   default: true
 pages:
 - content/posts/10-must-have-seo-chrome-extensions.md
+- content/posts/Useful WP code.md
 - content/posts/free-online-tools.md
 - content/posts/free-personal-website.md
 - content/posts/seo-bookmarklets.md
