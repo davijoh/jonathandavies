@@ -3,7 +3,7 @@ date = ""
 draft = true
 showToc = true
 tags = []
-title = ""
+title = " 🙌 Useful Code Snippets for Wordpress"
 
 +++
 Useful WP code
