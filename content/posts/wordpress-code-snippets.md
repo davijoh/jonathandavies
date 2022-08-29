@@ -5,8 +5,6 @@ tags = ["Wordpress", "Code Snippets"]
 title = " 🙌 Useful Code Snippets for Wordpress"
 
 +++
-# My list of useful code snippets for WordPress
-
 Most of the websites I work on are built using WordPress (Gutenberg) and Elementor.
 
 Now, this combination isn't perfect and there are some -very frustrating- limitations to the existing functionalities.
@@ -258,8 +256,8 @@ The following snippet lets you add an automatic TOC, simply by adding a shortcod
     }
     add_filter('the_content', 'auto_id_headings');
 
-[Source](https://webdeasy.de/en/wordpress-table-of-contents-without-plugin/  "Source")  
-  
+[Source](https://webdeasy.de/en/wordpress-table-of-contents-without-plugin/  "Source")
+
 Note: The following code only includes h2 headings in the TOC. If you want to include other headings (h3 and h4 for example) you need to edit the code. To do so, look for this section in the code:
 
     function get_headings($content) {
