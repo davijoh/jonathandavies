@@ -1,6 +1,5 @@
 +++
 date = 2022-08-29T12:00:00Z
-draft = true
 showToc = true
 tags = ["Wordpress", "Code Snippets"]
 title = " 🙌 Useful Code Snippets for Wordpress"
