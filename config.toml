@@ -96,18 +96,21 @@ SiteVerificationTag = "XYZabc"
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
+hidden = true
 identifier = "archives"
 name = "Notes"
 url = "/archives/"
 weight = 10
 
 [[menu.main]]
+hidden = true
 identifier = "categories"
 name = "categories"
 url = "/categories/"
 weight = 20
 
 [[menu.main]]
+hidden = true
 identifier = "tags"
 name = "tags"
 url = "/tags/"
