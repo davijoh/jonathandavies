@@ -49,20 +49,12 @@ tocopen = true
 
   [params.profileMode]
   enabled = true
-  title = "ExampleSite"
-  subtitle = "This is subtitle"
-  imageUrl = "<img location>"
+  title = "Jonathan Davies"
+  subtitle = "Get in touch"
+  imageUrl = "https://media.licdn.com/dms/image/D4D03AQGAI8d3cVscrg/profile-displayphoto-shrink_400_400/0/1698154761548?e=1705536000&v=beta&t=zaN2q_QojalRO_QrRGnA9LlJAQvhSP-9dzuX3W5LRPs"
   imageWidth = 120
   imageHeight = 120
   imageTitle = "my image"
-
-    [[params.profileMode.buttons]]
-    name = "Posts"
-    url = "posts"
-
-    [[params.profileMode.buttons]]
-    name = "Tags"
-    url = "tags"
 
   [params.homeInfoParams]
   Title = "Hi there 🤙"
