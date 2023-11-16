@@ -36,15 +36,16 @@ showtoc = false
 tocopen = true
 
   [params.assets]
-  favicon = "<link / abs url>"
-  favicon16x16 = "<link / abs url>"
-  favicon32x32 = "<link / abs url>"
+  favicon = "/favicon.ico"
+  favicon16x16 = "/favicon16x16.png"
+  favicon32x32 = "/favicon32x32.png"
   apple_touch_icon = "<link / abs url>"
   safari_pinned_tab = "<link / abs url>"
 
   [params.label]
   text = "Jonathan Davies"
   icon = "/apple-touch-icon.png"
+  imageWidth = 35
   iconHeight = 35
 
   [params.profileMode]
