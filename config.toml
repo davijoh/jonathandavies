@@ -45,7 +45,7 @@ tocopen = true
   [params.label]
   text = "Jonathan Davies"
   icon = "/apple-touch-icon.png"
-  imageWidth = 35
+  iconWidth = 35
   iconHeight = 35
 
   [params.profileMode]
@@ -55,7 +55,7 @@ tocopen = true
   imageUrl = "https://media.licdn.com/dms/image/D4D03AQGAI8d3cVscrg/profile-displayphoto-shrink_400_400/0/1698154761548?e=1705536000&v=beta&t=zaN2q_QojalRO_QrRGnA9LlJAQvhSP-9dzuX3W5LRPs"
   imageWidth = 120
   imageHeight = 120
-  imageTitle = "my image"
+  imageTitle = "Jonathan Davies"
 
   [params.homeInfoParams]
   Title = "Hi there 🤙"
